@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "products": "Mahsulotlar",
+    "users": "Foydalanuvchilar",
+    "partners": "Hamkorlar"
+  },
+  "home": {
+    "title": "Bizning portfolioga xush kelibsiz",
+    "description": "Bizning ish va xizmatlarimiz bilan tanishing"
+  },
+  "products": {
+    "title": "Bizning mahsulotlar",
+    "description": "Ajoyib mahsulotlarimizni ko'rib chiqing"
+  },
+  "users": {
+    "title": "Bizning foydalanuvchilar",
+    "description": "Qadrli foydalanuvchilarimiz bilan tanishing"
+  },
+  "partners": {
+    "title": "Bizning hamkorlar",
+    "description": "Ishonchli hamkorlarimiz bilan tanishing"
+  }
+}

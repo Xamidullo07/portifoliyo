@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "users": "Users",
+    "partners": "Partners"
+  },
+  "home": {
+    "title": "Welcome to Our Portfolio",
+    "description": "Explore our work and services"
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Check out our amazing products"
+  },
+  "users": {
+    "title": "Our Users",
+    "description": "Meet our valued users"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "description": "Discover our trusted partners"
+  }
+}
